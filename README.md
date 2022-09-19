@@ -1,9 +1,9 @@
 # docformatter(-conda) mirror
 
-Mirror of sqlfluff for pre-commit with conda as a language.
+Mirror of docformatter for pre-commit with conda as a language.
 
 - For pre-commit: see https://github.com/pre-commit/pre-commit
-- For sqlfluff: see https://github.com/PyCQA/docformatter
+- For docformatter: see https://github.com/PyCQA/docformatter
 
 ### Using docformatter with pre-commit and conda:
 
