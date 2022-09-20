@@ -1,0 +1,7 @@
+- id: docformatter-conda
+  name: docformatter-conda
+  entry: docformatter -i
+  language: conda
+  description: "Formats docstrings to follow PEP 257."
+  types: [python]
+  additional_dependencies: []
