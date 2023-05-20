@@ -1,5 +1,5 @@
 channels:
   - conda-forge
 dependencies:
-  - docformatter=1.7.0
+  - docformatter=1.7.1
   - tomli
