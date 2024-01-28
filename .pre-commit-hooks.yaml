@@ -1,7 +1,7 @@
 - id: docformatter-conda
   name: docformatter-conda
+  description: 'Format docstrings to follow PEP 257.'
   entry: docformatter
-  args: [-i]
   language: conda
-  description: "Formats docstrings to follow PEP 257."
+  args: [-i]
   types: [python]
