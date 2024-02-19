@@ -3,4 +3,7 @@ channels:
   - nodefaults
 dependencies:
   - docformatter=1.7.5
+<<<<<<< before updating
   - tomli
+=======
+>>>>>>> after updating
